@@ -1,0 +1,24 @@
+{
+    "name": "WalletTests",
+    "rootNamespace": "",
+    "references": [
+        "AmoaebaWallet"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.test-framework",
+            "expression": "[1.5.1,1.5.1]",
+            "define": ""
+        }
+    ],
+    "noEngineReferences": false
+}

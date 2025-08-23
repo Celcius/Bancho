@@ -1,0 +1,24 @@
+{
+    "name": "AmoaebaUtils.CommandsEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b22a3c3c07f0ec247b1ba82f352cb235"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.test-framework",
+            "expression": "[1.5.1,1.5.1]",
+            "define": ""
+        }
+    ],
+    "noEngineReferences": false
+}
